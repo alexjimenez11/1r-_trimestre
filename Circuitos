@@ -1,0 +1,5 @@
+Esta mañana hemos creado un circuito trabajando con interruptores, resistencias y LEDS.
+La resistencia era de 220 Ohmios, que sirve para controlar/regular la energia que queremos enviarle a la LED
+Empezamos con los cables: Uno en positivo y otro en negativo. Uno en la clavija de 5V. Después hemos llevado la corriente al otro panel.
+Hemos puesto un interruptor en el centro del panel y la luz LED la hemos colocado justo debajo de esta. 
+Hemos completado el circuito y cuando pulsamos el interruptor la LED se enciende.  19
